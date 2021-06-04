@@ -1,7 +1,8 @@
 # 06 Server-Side APIs: Weather Dashboard
 
-## Deployed @ 
 ```
+Deployed @ https://while-alive.github.io/06.Server-Side-APIs/
+
 ADD A SCREENSHOT
 ```
 
