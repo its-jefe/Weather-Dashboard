@@ -12,7 +12,7 @@ function searchCoordsFunction() {
 
   let cityName = document.querySelector("#search input").value;
 
-  let currentApiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + cityName + "&appid=" + yekipa;
+  let currentApiUrl = "https://api.openweathermap.org/data/2.5/weather?q=" + cityName + "&appid=" + yekipa;
   fetch(currentApiUrl)
     .then(function (response) {
       if (response.ok) {
