@@ -1,6 +1,6 @@
 # 06 Server-Side APIs: Weather Dashboard
 
-Deployed @ https://while-alive.github.io/Weather-Dashboard/
+Deployed @ https://its-jefe.github.io/Weather-Dashboard/
 
 ![deployed demo](./assets/ScreenShot.png)
 
