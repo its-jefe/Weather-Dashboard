@@ -6,7 +6,7 @@ This is [project #6][1] for [UCF Coding Bootcamp][2]
 
 ---
 
-Uses the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) along with the [OpenWeather Current Weather Data API][https://openweathermap.org/current] to retrieve weather data for cities. 
+Uses the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) along with the [OpenWeather Current Weather Data API](https://openweathermap.org/current) to retrieve weather data for cities. 
 
 ## Usage
 - Users may enter a city into the search field and hit search. They are then able to view the current conditions and 5-day forecast for that city.
@@ -20,6 +20,6 @@ Uses the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api)
 - Error handling
 
 
-[1]: [https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/06-Server-Side-APIs/02-Challenge]
-[2]: [https://bootcamp.ce.ucf.edu/coding/]
+[1]: https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/06-Server-Side-APIs/02-Challenge
+[2]: https://bootcamp.ce.ucf.edu/coding/
 
